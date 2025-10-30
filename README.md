@@ -14,6 +14,14 @@ public
     assets
 </ul>
 src
-<ul> models <ul>
+<ul> models </ul>
 tests
 </ul>
+
+<h3> Padrões de projeto <h3/>
+<p>Padrão de nomenclatura: Verbo + Substantivo
+Exemplos: CheckConnection() <\p>
+
+<p> <\p>
+
+
